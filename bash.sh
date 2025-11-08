@@ -12,8 +12,8 @@ echo "
 "
 
 # Configuration
-BOT_TOKEN="8173690666:AAEwlacz-ddpgF6sLnzmnrESL3uSs1GbxJU"
-ADMIN_ID="8448765277"
+BOT_TOKEN=" "
+ADMIN_ID=" "
 PORT="8080"
 
 # Colors
